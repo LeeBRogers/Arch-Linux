@@ -1,0 +1,8 @@
+calibre
+keepassxc
+libreoffice-fresh
+meld
+qemu-desktop
+spotify-launcher
+steam
+virt-manager

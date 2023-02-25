@@ -1,0 +1,12 @@
+ark
+dolphin
+firefox
+gwenview
+kate
+kcalc
+konsole
+partitionmanager
+plasma-meta
+plasma-wayland-session
+print-manager
+spectacle

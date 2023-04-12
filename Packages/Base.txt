@@ -4,6 +4,7 @@ base-devel
 cups
 dnsmasq
 dosfstools
+earlyoom
 firewalld
 htop
 iptables-nft

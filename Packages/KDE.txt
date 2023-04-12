@@ -5,6 +5,7 @@ gwenview
 kate
 kcalc
 konsole
+kwalletmanager
 partitionmanager
 plasma-meta
 plasma-wayland-session

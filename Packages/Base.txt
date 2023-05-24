@@ -7,6 +7,7 @@ dnsmasq
 dosfstools
 earlyoom
 firewalld
+flatpak
 foomatic-db
 foomatic-db-gutenprint-ppds
 foomatic-db-nonfree
